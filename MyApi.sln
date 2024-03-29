@@ -3,7 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApi", "MyApi\MyApi.csproj", "{E6132638-11B3-40B7-A58B-574AF836F3CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyApi", "MyApi\MyApi.csproj", "{E6132638-11B3-40B7-A58B-574AF836F3CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C80DF4A7-384C-4BBF-8DFD-14CBA3F0A840}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Pictures\VIES\MainGUI.PNG = ..\..\..\Pictures\VIES\MainGUI.PNG
+		..\..\..\Pictures\VIES\OrderBy.PNG = ..\..\..\Pictures\VIES\OrderBy.PNG
+		..\..\..\Pictures\VIES\Remove.PNG = ..\..\..\Pictures\VIES\Remove.PNG
+		..\..\..\Pictures\VIES\Stats.PNG = ..\..\..\Pictures\VIES\Stats.PNG
+		..\..\..\Pictures\VIES\Tree.PNG = ..\..\..\Pictures\VIES\Tree.PNG
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
