@@ -4,7 +4,7 @@ Autor: Krzysztof Maciejończyk
 
 Opis programu:
 
-Program służy do zbierania danych na temat informacji podatkowych firm mieszczących się w Unii Europejskiej (system VIES). Są one pobierane poprzez zewnętrzne API po podaniu dwóch parametrów wejściowych w pola tekstowe Country (numer kraju) i VAT (numer VAT). Użytkownik ma do dyspozycji GUI, na którym umieszczono szereg funkcji, umożliwiającym mu zarządzanie danymi w bazie danych. Cały program składa się z bazy danych znajduącej się w pliku **WIES .db**, klasy przechowującej informacje o jednym rekordzie **WIES.cs**, klasy tworzącej bazę danych **WiesDB.CS** oraz 4 Windows Forms:
+Program służy do zbierania danych na temat informacji podatkowych firm mieszczących się w Unii Europejskiej (system VIES). Są one pobierane poprzez zewnętrzne API po podaniu dwóch parametrów wejściowych w pola tekstowe Country (numer kraju) i VAT (numer VAT). Użytkownik ma do dyspozycji GUI, na którym umieszczono szereg funkcji, umożliwiającym mu zarządzanie danymi w bazie danych. Cały program składa się z bazy danych znajduącej się w pliku **WIES .db**, klasy przechowującej informacje o jednym rekordzie **WIES.cs**, klasy tworzącej bazę danych **WiesDB.cs** oraz 4 Windows Forms:
 
 **-MainGUI.cs** - główne okno programu, z którego użytkownik zarządza wszelkimi operacjami.
 
