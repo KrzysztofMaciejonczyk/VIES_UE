@@ -41,4 +41,13 @@ Okno główne programu (Main_GUI) zawiera następujące pola i przyciski:
 W programie zastosowano wszelkie procedury uodporniające program na niepożądane działanie użytkownika, jak wpisanie złego formatu do pól tekstowych, zapisu duplikatu do bazy danych czy usunięcie nieistniejącego rekordu.
 
 Poniżej umieszczono zrzuty ekranu poszczególnych funkcji i okienek programu:
-![Main window of the program](MyApi/Images/MainGUI.PNG)
+**Główne okno programu z widokiem na bazę danych**
+![MainGUI](MyApi/Images/MainGUI.PNG)
+**Okno programu z ustanawianiem kolejności rekordów w bazie danych**
+![OrderBy](MyApi/Images/OrderBy.PNG)
+**Okno programu z możliwością usunięcia wybranego rekordu z bazy danych**
+![Remove](MyApi/Images/Remove.PNG)
+**Okno programu ze statystykami**
+![Statistics](MyApi/Images/Stats.PNG)
+**Drzewo całego programu**
+![Tree](MyApi/Images/Tree.PNG)
